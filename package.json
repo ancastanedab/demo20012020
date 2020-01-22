@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "di-hola": "echo 'HOLA MUNDO HOLA HOLA HOLA'",
+        "di-hola": "'cambio 2'",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
